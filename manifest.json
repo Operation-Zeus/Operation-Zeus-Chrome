@@ -1,0 +1,12 @@
+{
+  "name": "Operation Zeus",
+  "description": "A podcast manager from the future",
+  "author": "Luop90",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["main.js"]
+    }
+  }
+}
